@@ -20,7 +20,7 @@ Ferramentas utilizadas
   
 - DevTools
   
-O que aprendi
+O que aprendi com esse projeto (habilidades/competências adquiridas)
 
 - Organização de testes
   
